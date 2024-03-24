@@ -1,0 +1,36 @@
+비밀번호 유형을 선택하세요(0: 숫자, 1: 숫자+알파벳): 1
+
+생성된 비밀번호
+ra3tkXVv LoMZfrt8 l4f5AaYP BEqYQIq0 ibQmaNFN BiPIWWr8 i7qowB9h R0FtPo9u dsoX0FQd xPYXnVn7 hOHv6GJw zpvmMNtZ gxApsYm9 JseETg3q xBTrZFtQ CHLhNpK3 ALQpjL6n FVYRywCO NR9T1sEs uCyHXKfw
+kJomsOM BIIhu6j I6rb8Ff HfpzKBG PFOQCde VLlWsqj csR7Hqe BnVQTJg cfP5ihk PV8rUko WEYwb3S Uo0u9bH    UVRWbQt O7w6MY3 4WMn3Ik 6FlgFgN lIE2ly2 GiXAg7e kVMM09o TXUkkAd
+L7Umj4  Ub6c44  e3hC25  uWYzVq  OoEWoI  96R2Jw  iYhpPQ  snByEg  QGRiPM  6egUUg  3qq7Jr  S1Q3tg     wc7ZrL  Yofe3y  texKny  FDL19y  m13iCS  mHShLl  eAjW3v  CTusne
+TnMms   8OJCB   rUnO1   dcCQM   HbC58   zcMj2   x9PGt   Hu50s   DxoX2   p5gc8   iahga   M4JXN      NxBdG   tLW5b   fb9aS   Zs41w   r9hnD   qyUmF   KEE8B   G6ynq
+CNjD    FdAw    64Lk    fRr7    wqXL    myfl    Cy7b    Sq2Y    itEP    jDOa    SgxF    I85s       nxPQ    qxv2    XVMd    vWza    RCCy    1LfE    Fvz9    6H4h
+
+진행 상황을 보려면 아무 키나 누르세요
+찾은 비밀번호:1(49) L(76) f(102) E(69)
+찾은 비밀번호:6(54) 4(52) L(76) k(107)
+찾은 비밀번호:6(54) H(72) 4(52) h(104)
+찾은 비밀번호:C(67) N(78) j(106) D(68)
+찾은 비밀번호:C(67) y(121) 7(55) b(98)
+찾은 비밀번호:F(70) d(100) A(65) w(119)
+찾은 비밀번호:F(70) v(118) z(122) 9(57)
+찾은 비밀번호:I(73) 8(56) 5(53) s(115)
+찾은 비밀번호:R(82) C(67) C(67) y(121)
+찾은 비밀번호:S(83) g(103) x(120) F(70)
+찾은 비밀번호:S(83) q(113) 2(50) Y(89)
+찾은 비밀번호:X(88) V(86) M(77) d(100)
+찾은 비밀번호:f(102) R(82) r(114) 7(55)
+찾은 비밀번호:i(105) t(116) E(69) P(80)
+찾은 비밀번호:j(106) D(68) O(79) a(97)
+찾은 비밀번호:m(109) y(121) f(102) l(108)
+찾은 비밀번호:n(110) x(120) P(80) Q(81)
+찾은 비밀번호:q(113) x(120) v(118) 2(50)
+찾은 비밀번호:v(118) W(87) z(122) a(97)
+찾은 비밀번호:w(119) q(113) X(88) L(76)
+4자리 소요시간 : 2252.95초, 평균 소요시간 : 112.647초
+0(48) 1(49) Y(89) X(88) x(120) d(100) 2699.86초 경과
+2(0(480(0() 0(48) 048) 2(50) (48) 150) D(68) T(84) a(97) n(110) 한 시간이 지나 종료합니다
+48) 0(488) (49) v((56) f(1022) 118) E(69) (50) 2Z(P50(90(80) e) z) f(101) 한 시간이 지나 종료합니다
+(122) 한 시간이 지나 종료합니다
+(102) j(106) E(69) 한 시간이 지나 종료합니다
