@@ -199,14 +199,6 @@ void attackBruteForce(int password[][MAX], int digit) { // 브루트포스 : 소
             }
             cout << (double)(clock() - startTime) / CLOCKS_PER_SEC << "초 경과" << endl;
         }
-
-        if (clock() - startTime > EXECUTE_TIME * CLOCKS_PER_SEC) {
-            for(int j = 0; j < digit; j++) {
-                cout << (char)bruteCompare[j] << "(" << bruteCompare[j] << ") ";
-            }
-            cout << "한 시간이 지나 종료합니다" << endl;
-            return;
-        }
     }
 
     finishTime = clock();
