@@ -79,15 +79,7 @@ void calcCarry(int arr[], int i, int startCode, int endCode) { // 올림 재귀 
         calcCarry(arr, i, startCode, endCode);
     }
     else {
-        if (arr[i - 1] == DIGIT_END) { // 숫자 -> 대문자
-            arr[i - 1] = UPPER_START;
-        }
-        else if (arr[i - 1] == UPPER_END) { // 대문자 -> 소문자
-            arr[i - 1] = LOWER_START;
-        }
-        else {
-            arr[i - 1]++;
-        }
+        arr[i - 1]++;
         arr[i] = startCode;
     }
 }
@@ -182,12 +174,6 @@ void attackBruteForce(int password[][MAX], int digit) { // 브루트포스 : 소
         if (bruteCompare[arrayEnd] == ASCII_END) {
             calcCarry(bruteCompare, arrayEnd, ASCII_START, ASCII_END);
             continue;
-        }
-        else if (bruteCompare[arrayEnd] == DIGIT_END) { // 숫자 -> 대문자
-            bruteCompare[arrayEnd] = UPPER_START;
-        }
-        else if (bruteCompare[arrayEnd] == UPPER_END) { // 대문자 -> 소문자
-            bruteCompare[arrayEnd] = LOWER_START;
         }
         else {
             bruteCompare[arrayEnd]++;
